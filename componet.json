@@ -1,4 +1,10 @@
 [
-    {"component_name": "card",
-    "class_name": "SHCradView"}
+    {
+        "component_name": "card",
+        "class_name": "SHCradView"
+    },
+    {
+        "component_name": "card",
+        "class_name": "SHCradView"
+    }
 ]
