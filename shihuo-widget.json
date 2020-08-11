@@ -1,10 +1,14 @@
 [
     {
-        "component_name": "card",
-        "class_name": "SHCradView"
+        "component_name": "product_component_view",
+        "class_name": "SHProductComponetView"
     },
     {
-        "component_name": "sdsd",
-        "class_name": "SHPersonCradView"
+        "component_name": "product_component_ad_view",
+        "class_name": "SHProductComponetAdView"
+    },
+    {
+       "component_name": "product_component_rangking_view",
+       "class_name": "SHProductComponetRankingView"
     }
 ]
